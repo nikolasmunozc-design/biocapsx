@@ -1,0 +1,11 @@
+[
+  {
+    "compra_id": 1,
+    "usuario_id": 1,
+    "usuario_correo": "nikolas90_06@hotmail.com",
+    "producto_id": 2,
+    "producto_nombre": "Cápsula Sensor",
+    "cantidad": 40,
+    "total": 720000
+  }
+]

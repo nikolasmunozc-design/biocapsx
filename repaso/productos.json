@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cápsula Estándar",
+    "tipo": "capsula",
+    "precio": 7000
+  },
+  {
+    "id": 2,
+    "nombre": "Cápsula Sensor",
+    "tipo": "capsula_sensor",
+    "precio": 18000
+  },
+  {
+    "id": 3,
+    "nombre": "Kit Inicio (5 cápsulas)",
+    "tipo": "kit",
+    "precio": 30000
+  }
+]
